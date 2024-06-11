@@ -10,7 +10,7 @@ _**Repositório criado durante uma Aula ao vivo!**_
 * França
 * Bélgica
      
-* 1. Brasil
-* 1. Alemanha
-* 5. França
-* 0. Bélgica
+1. Brasil
+1. Alemanha
+5. França
+0. Bélgica
